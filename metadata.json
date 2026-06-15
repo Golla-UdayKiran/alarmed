@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Dosage Tracker",
+  "description": "A comprehensive, easy-to-use mobile-style web application for tracking medications, timings, remaining counts, alarms, and syncing data with Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
